@@ -3,6 +3,8 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/AfpXE9om1TtkcjpKhI/giphy.gif" width="100"/>
 </div>
+
+[https://media1.giphy.com/media/AfpXE9om1TtkcjpKhI/giphy.gif](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
 <!--
 **swt-abhirup/swt-abhirup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
