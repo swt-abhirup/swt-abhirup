@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=swt-abhirup&style=flat-square&color=blue" alt=""/>
 </div>
 
-<!--<h1 align="center">
+<!-- <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>-->
 
-# I'm a Blogger, Programmer & Designer
+<!--# I'm a Blogger, Programmer & Designer
 
 ### :technologist: About Me 👋
 **swt-abhirup/swt-abhirup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Python for Data Science using Pandas & NumPy
 🌱 I’m currently learning the DevOps Approach, AWS, Docker, Jenkins, Kubernetes, 
 
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -44,6 +44,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Abhirup De!  
+
+🚀 **Blogger | UI/UX Designer | Frontend Developer | Data Enthusiast**  
+
+---
+
+## 🌟 About Me  
+
+I’m an accomplished **UI/UX Designer & Frontend Developer** with over **5 years of experience**, specializing in creating **user-friendly designs and data-driven applications**. My expertise spans **Vue.js, Flask, Python, React.js, PlotlyJS, Digital Marketing, and SEO**.  
+
+🎨 Passionate about **design, development, and data visualization**, I enjoy crafting engaging user experiences while optimizing performance.  
+
+## 💡 What I Do  
+- 🖌 **UI/UX & Frontend Development** (HTML5, CSS3, JavaScript, Vue.js, React.js, Bootstrap, WordPress)  
+- 📊 **Data Visualization** (Python, Flask, PlotlyJS)  
+- 🚀 **SEO & Digital Marketing** (Content Strategy, Branding, Analytics)  
+- 🎨 **Creative Design** (Figma, Canva, Adobe Express)  
+
+## 📖 Currently Learning  
+- 🔍 **Python for Data Science** (Pandas, NumPy)  
+- ☁ **DevOps Approach** (AWS, Docker, Jenkins, Kubernetes)  
+
+## 📜 My Work  
+📌 **Check out my projects:** [holytriofootprints.com](https://holytriofootprints.com) 🌍  
+
+## 🚀 Let's Connect!  
+📧 **Email:** office.abhirup@gmail.com  
+<!-- 💼 **LinkedIn:** [linkedin.com/in/abhirupde](https://linkedin.com/in/abhirupde)  
+📱 **Twitter/X:** [@abhirupde](https://twitter.com/abhirupde)  
+ 🎨 **Portfolio:** [Dribbble/Behance Link (if available)] 
+
+---  
+
+⭐ **"Designing for impact, developing for innovation!"**  
+
+-->  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
